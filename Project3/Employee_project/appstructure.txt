@@ -1,0 +1,17 @@
+*employee__project
+    *employee__app
+     *migrations
+     *templates
+        *base.html
+        *employee_form.html
+        *employee_list.html
+
+    *models.py
+    *forms.py
+    *urls.py
+    *views.py
+
+    *employee__app(project_folder)
+
+    *settings.py
+    *urls.py
